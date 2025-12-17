@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1,
+		"questionText": "What does HTML stand for?",
+		"options": [
+			"Hyper Trainer Marking Language",
+			"Hyper Text Markup Language",
+			"High Text Machine Language",
+			"Hyper Tool Multi Language"
+		],
+		"correctAnswer": "Hyper Text Markup Language"
+	},
+	{
+		"id": 2,
+		"questionText": "What does CSS stand for?",
+		"options": [
+			"Creative Style Sheets",
+			"Cascading Style Sheets",
+			"Computer Style Sheets",
+			"Colorful Style Sheets"
+		],
+		"correctAnswer": "Cascading Style Sheets"
+	},
+	{
+		"id": 3,
+		"questionText": "Which language is mainly used for web page interactivity?",
+		"options": ["HTML", "CSS", "JavaScript", "SQL"],
+		"correctAnswer": "JavaScript"
+	},
+	{
+		"id": 4,
+		"questionText": "What does API stand for?",
+		"options": [
+			"Application Programming Interface",
+			"Applied Program Internet",
+			"Advanced Programming Interface",
+			"Application Process Integration"
+		],
+		"correctAnswer": "Application Programming Interface"
+	},
+	{
+		"id": 5,
+		"questionText": "Which data format is commonly used to exchange data between client and server?",
+		"options": ["XML", "JSON", "CSV", "TXT"],
+		"correctAnswer": "JSON"
+	},
+	{
+		"id": 6,
+		"questionText": "What does HTTP stand for?",
+		"options": [
+			"Hyper Text Transfer Protocol",
+			"High Transfer Text Protocol",
+			"Hyper Tool Transfer Program",
+			"Hyper Text Translation Process"
+		],
+		"correctAnswer": "Hyper Text Transfer Protocol"
+	},
+	{
+		"id": 7,
+		"questionText": "Which symbol is used for comments in JavaScript?",
+		"options": ["//", "##", "<!-- -->", "**"],
+		"correctAnswer": "//"
+	},
+	{
+		"id": 8,
+		"questionText": "Which company developed JavaScript?",
+		"options": ["Microsoft", "Sun Microsystems", "Netscape", "Google"],
+		"correctAnswer": "Netscape"
+	},
+	{
+		"id": 9,
+		"questionText": "Which keyword is used to declare a constant in JavaScript?",
+		"options": ["var", "let", "const", "static"],
+		"correctAnswer": "const"
+	},
+	{
+		"id": 10,
+		"questionText": "Which HTTP method is used to retrieve data from a server?",
+		"options": ["POST", "PUT", "GET", "DELETE"],
+		"correctAnswer": "GET"
+	}
+]
