@@ -18,14 +18,14 @@ function Button({
 			<button
 				disabled={disableBack}
 				onClick={backClick}
-				className="py-1 px-4 bg-blue-500 rounded-2xl text-white disabled:bg-gray-300"
+				className="py-1 px-4 bg-blue-500 rounded-2xl text-white disabled:bg-gray-300 cursor-pointer"
 			>
 				{backButton}
 			</button>
 
 			<button
 				onClick={nextClick}
-				className="py-1 px-4 bg-blue-500 rounded-2xl text-white"
+				className="py-1 px-4 bg-blue-500 rounded-2xl text-white cursor-pointer"
 			>
 				{nextButton}
 			</button>
